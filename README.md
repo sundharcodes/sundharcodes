@@ -24,7 +24,7 @@
 
 > Full Stack Developer passionate about building scalable web applications and teaching others to code
 
-- 💼 **Currently:** Web Developer at [Talxwev](https://talxwev.com) | Freelance Developer
+- 💼 **Currently:** Web Developer at [Talxwev](https://talxwev.in) | Freelance Developer
 - 🎓 **Teaching:** Web Development on YouTube & Instagram
 - 🔭 **Working On:** Finance Management System with Nuxt 3, Advanced Search & Authentication
 - 🌱 **Learning:** Advanced Finance Management, System Architecture, English Communication
